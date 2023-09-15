@@ -2,3 +2,4 @@
 .spag {background-color: aqua;}
 .chicken {background-color: rgb(159,140,140);}
 .smoothie {background-color: rgb(200,100,250);}
+li, button {border: 2px greenyellow;padding-left: 2em; padding-right: 2em; padding-bottom: 2em; padding-top: 2em;}
