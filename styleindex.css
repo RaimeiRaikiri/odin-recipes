@@ -6,11 +6,11 @@ Body {
 .spag {background-color: aqua;}
 .chicken {background-color: rgb(159,140,140);}
 .smoothie {background-color: rgb(200,100,250);}
-li, button {border: 2px greenyellow;padding: 2em; width: 150px; height: 120px;}
+li, button {border: 2px greenyellow;padding: 2em; width: 200px; height: 120px;}
 ul {
     display: flex;
     list-style: none;
   }
-  .spag-img {display: inline-block; width: 200px; height: 200px;}
-  .chicken-img {display: inline-block; width: 200px; height: 200px;}
-  .smoothie-img {display: inline-block; width: 200px ; height: 200px;}
+  .spag-img {display: inline-block; width: 200px; height: 200px; margin-left: 71px;}
+  .chicken-img {display: inline-block; width: 200px; height: 200px;margin-left:59px;}
+  .smoothie-img {display: inline-block; width: 200px ; height: 200px; margin-left: 61px;}
