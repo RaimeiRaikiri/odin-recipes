@@ -11,3 +11,6 @@ ul {
     display: flex;
     list-style: none;
   }
+  .spag-img {display: inline-block; width: 200px; height: 200px;}
+  .chicken-img {display: inline-block; width: 200px; height: 200px;}
+  .smoothie-img {display: inline-block; width: 200px ; height: 200px;}
